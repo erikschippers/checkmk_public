@@ -2,3 +2,5 @@ This MKP is for a bug in CheckMK 2.2.0P11, where there is a typo on line 729, se
 https://forum.checkmk.com/t/bug-mssql-vbs-checkmk-2-2-0p11-werk-15917-copy-paste-error/41736
 
 The MKP will only be valid for 2.2.0P11, expected to be fixed in 2.2.0P12.
+
+Credits to Andreas for the answer.
